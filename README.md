@@ -52,3 +52,20 @@ This is a standalone HTML demo suite that simulates a Visual Studio IDE environm
 
 
 ## 📂 Project Structure
+
+EVENTPRO-LAB/
+├── eventpro-lab-demo.html # Complete interactive demo file
+└── README.md # This file
+
+
+---
+
+## 🎯 Purpose
+
+This demo serves as a **presentation aid** — it accurately represents the underlying system architecture, code workflow, and functionality without requiring Visual Studio or a live database connection.
+
+---
+
+## 📝 License
+
+For academic use — Midterm Lab 3 Defense @ Trimex Colleges © 2026
